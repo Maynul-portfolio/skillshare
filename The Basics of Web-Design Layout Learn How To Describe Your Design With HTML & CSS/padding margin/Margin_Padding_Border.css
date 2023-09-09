@@ -1,0 +1,52 @@
+/* not Working maring:0 paddding:0 */
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+
+/* not Working maring:0 paddding:0 */
+/* html{
+    margin: 0;
+    padding: 0;
+}
+*/
+
+/* Working maring:0 paddding:0 */
+
+*{
+ margin: 0;
+ padding: 0;
+}*
+
+
+
+
+.box{
+    background-color: #15b4b4;
+    width: 40%;
+    padding: 20px;
+}
+
+.content{
+    background-color: #86260f;
+    color: #fff;
+}
+
+/* top+buttion=20px ,left+right=70px */
+.box-2{
+    padding: 20px 70px;
+}
+/* top = 40px , right+left=50px , buttion=70px */
+.box-3{
+    padding: 40px 50px 70px;
+}
+/* top= 20px ,right = 30px , buttion=40px ,left=50px */
+
+
+.box-4{
+    padding: 20px 30px 40px 50px;
+
+}
+
+
+
